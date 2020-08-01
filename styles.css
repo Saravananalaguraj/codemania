@@ -557,9 +557,6 @@ footer {
   * {
     overflow-x: hidden;
   }
-  body{
-    color: red;
-  }
   .loading {
     background-color: #fff;
     width: 100vw;
@@ -769,6 +766,9 @@ footer {
     height: 100vh;
     display: fixed;
     overflow: hidden;
+  }
+  body{
+    color: red;
   }
   .loading img {
     padding-left: 45vw;
