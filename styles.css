@@ -557,6 +557,9 @@ footer {
   * {
     overflow-x: hidden;
   }
+  body{
+    color: red;
+  }
   .loading {
     background-color: #fff;
     width: 100vw;
