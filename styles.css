@@ -294,6 +294,7 @@ html {
   position: absolute;
   text-align: center;
   justify-content: center;
+  align-items: center;
   width: 100%;
   top: 50%;
   left: 50%;
@@ -595,7 +596,7 @@ footer {
     color: lightslategray;
     font-size: 20px;
     overflow-y: hidden;
-    outline: transparent;
+    outline: 0;
   }
   .banner {
     position: relative;
@@ -612,7 +613,7 @@ footer {
   }
   .banner #text {
     position: relative;
-    font-size: 35px;
+    font-size: 25px;
     font-family: "Poppins", sans-serif;
     top: 100px;
     color: #fff;
@@ -661,7 +662,7 @@ footer {
     margin-right: 35px;
   }
   .main ul li:last-of-type {
-    margin-right: 30px;
+    margin-right: 35px;
   }
   .main .container-fluid1 {
     margin-left: 30px;
