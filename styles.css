@@ -613,7 +613,7 @@ footer {
   }
   .banner #text {
     position: relative;
-    font-size: 25px;
+    font-size: 30px;
     font-family: "Poppins", sans-serif;
     top: 100px;
     color: #fff;
@@ -778,6 +778,7 @@ footer {
     color: white;
     font-size: 20px;
     overflow-y: hidden;
+    outline: 0;
   }
   #marker {
     display: none;
@@ -788,7 +789,7 @@ footer {
     overflow-y: hidden;
   }
   .banner #text {
-    font-size: 50px;
+    font-size: 35px;
   }
   .banner .clouds {
     top: 0;
