@@ -613,7 +613,7 @@ footer {
   }
   .banner #text {
     position: relative;
-    font-size: 30px;
+    font-size: 20px;
     font-family: "Poppins", sans-serif;
     top: 100px;
     color: #fff;
@@ -766,9 +766,6 @@ footer {
     height: 100vh;
     display: fixed;
     overflow: hidden;
-  }
-  body{
-    color: red;
   }
   .loading img {
     padding-left: 45vw;
