@@ -262,14 +262,17 @@ html {
 /* portfolio hover */
 .container {
   position: relative;
-  width: 50%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
 }
 
-/* .image {
+.image {
     display: block;
     width: 100%;
     height: auto;
-  } */
+    object-fit: cover;
+  }
 
 .overlay {
   position: absolute;
@@ -284,7 +287,7 @@ html {
 }
 
 .container:hover .overlay {
-  width: 85%;
+  width: 10%;
   left: 0;
 }
 
